@@ -4,4 +4,8 @@ Currently Studying for the Security+ Exam.
 I'm also on TryHackMe as well!
 
 - Networking ✅
-- Security+ Examination Prep (Currently)
+- Security+ Certification ✅
+- Linux
+- Bash
+- C
+- Git Branching
